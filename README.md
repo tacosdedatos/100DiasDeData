@@ -32,3 +32,6 @@ Para proponer un ejercicio o tecnología abre un **issue** en este repositorio o
 ### Bokeh
 
 ### Altair
+
+### Surtido
+* cómo publicar tus datos 
