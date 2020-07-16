@@ -1,4 +1,4 @@
-![100 Días De Data poster](100DíasDeData.png)
+![100 Días De Data poster](100DiasDeData.png)
 
 Contenidos:
 * [Sobre el proyecto #100DíasDeData](#sobre-el-proyecto)
