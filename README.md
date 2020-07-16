@@ -69,13 +69,16 @@ Para desalentar el fanatismo por las herramientas el repositorio debería estar 
 
 ```
 .
-├── AUTHORS.md
 ├── LICENSE
 ├── README.md
+├── -plantillas                                           <- Plantillas a seguir.
+│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       <- Cada ejercicio tiene una carpeta con:
+|       ├── instrucciones.md                              <- Archivo markdown con las instrucciones del ejercicio
+|       └── solucion.md                                   <- La solución del ejercicio. Preferiblemente en markdown pero puede ser un _script_
 ├── adquisicion-distribucion
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>       <- Cada ejercicio tiene una carpeta con:
-|   │   ├── instrucciones.md                              <- Archivo markdown con las instrucciones del ejercicio
-|   │   └── solucion.md                                   <- La solución del ejercicio. Preferiblemente en markdown pero puede ser un _script_
+│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>       
+|   │   ├── instrucciones.md                              
+|   │   └── solucion.md                                   
 |  ...
 │   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
 |       ├── instrucciones.md                              
@@ -105,13 +108,14 @@ Para desalentar el fanatismo por las herramientas el repositorio debería estar 
 |       ├── instrucciones.md                              
 |       └── solucion.md    
 ├── proyectos
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
-|   │   ├── instrucciones.md                            
-|   │   └── solucion.md                                  
-|  ...
-│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|       ├── instrucciones.md                              
-|       └── solucion.md    
+|   └── <nivel-de-dificultad>-<nombre-del-proyecto>
+|       ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
+|       │   ├── instrucciones.md                            
+|       │   └── solucion.md                                  
+|      ...
+|       └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
+|           ├── instrucciones.md                              
+|           └── solucion.md    
 ├── surtido
 │   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
 |   │   ├── instrucciones.md                            
