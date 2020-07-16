@@ -83,32 +83,14 @@ Para desalentar el fanatismo por las herramientas el repositorio debería estar 
 │   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
 |       ├── instrucciones.md                              
 |       └── solucion.md                                  
-├── analisis
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|   │   ├── instrucciones.md                              
-|   │   └── solucion.md                                   
+├── analisis                                  
 |  ...
-│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|       ├── instrucciones.md                              
-|       └── solucion.md    
-├── automatizacion
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|   │   ├── instrucciones.md                              
-|   │   └── solucion.md                                   
-|  ...
-│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|       ├── instrucciones.md                              
-|       └── solucion.md    
-├── limpieza
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|   │   ├── instrucciones.md                              
-|   │   └── solucion.md                                   
-|  ...
-│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|       ├── instrucciones.md                              
-|       └── solucion.md    
+├── automatizacion                                 
+|  ...   
+├── limpieza                                 
+|  ...  
 ├── proyectos
-|   └── <nivel-de-dificultad>-<nombre-del-proyecto>
+|   └── <nivel-de-dificultad>-<nombre-del-proyecto>       <- Cada proyecto tiene una carpeta con varios ejercicios
 |       ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
 |       │   ├── instrucciones.md                            
 |       │   └── solucion.md                                  
@@ -116,18 +98,9 @@ Para desalentar el fanatismo por las herramientas el repositorio debería estar 
 |       └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
 |           ├── instrucciones.md                              
 |           └── solucion.md    
-├── surtido
-│   ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
-|   │   ├── instrucciones.md                            
-|   │   └── solucion.md                                 
-|  ...
-│   └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
-|       ├── instrucciones.md                              
-|       └── solucion.md    
+├── surtido                                 
+|  ...   
 └── visualizacion
-    ├── <nivel-de-dificultad>-<nombre-de-ejercicio>     
-    │   ├── instrucciones.md                             
-    │   └── solucion.md                                   
    ...
     └── <nivel-de-dificultad>-<nombre-de-ejercicio>       
         ├── instrucciones.md                              
