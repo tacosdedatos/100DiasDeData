@@ -4,7 +4,7 @@ Contenidos:
 * [Sobre el proyecto #100DíasDeData](#sobre-el-proyecto)
 * [Definiciones](#definiciones)
   - [Nomenclatura de ejercicios](#nomenclatura-de-ejercicios)
-  - [Sobre los 3 dīgitos que describen el nivel del ejercicio](#sobre-los-3-dígitos-que-describen-el-nivel-del-ejercicio)
+  - [Sobre los 3 dígitos que describen el nivel del ejercicio](#sobre-los-3-dígitos-que-describen-el-nivel-del-ejercicio)
 * [Reglas a seguir](#reglas-a-seguir)
 * [Estructura del repositorio](#estructura-del-repositorio)
 
