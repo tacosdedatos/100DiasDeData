@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**¿Cuál es la meta de este ejercicio?**
+### ¿Cuál es la meta de este ejercicio?
 Ejemplos:
 * _Aprender a hacer XYZ..._
 * _Crear una XYZ..._
 
-**¿Qué tecnología sugieres utilizar?**
+### ¿Qué tecnología sugieres utilizar?
 Tableau, PowerBI, python, R, javascript, ...
 
-**Context adicional**
+### Context adicional
 Ejemplos, capturas de pantalla, enlaces a otros tutoriales, ...
