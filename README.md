@@ -32,7 +32,7 @@ Un <span style="background-color:#be89ff78">proyecto</span> es un grupo de ejerc
 * Cada ejercicio sólo tiene una carpeta. 
 * Cada carpeta tiene un mínimo de 2 archivos: `instrucciones.md` y `solucion.md`. La solución puede ser un _script_ si está bien documentado. 
 
-### Sobre los 3 dígitos que  describen el nivel del ejercicio:
+### Sobre los 3 dígitos que describen el nivel del ejercicio:
 El nivel de un ejercicio se describe en 3 áreas: **complejidad**, **nivel de conocimiento previo necesario**, **tiempo necesario**. 
 
 Cada área recibe una calificación del 1 - 5. 
