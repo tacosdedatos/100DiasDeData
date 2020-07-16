@@ -11,7 +11,7 @@ assignees: ''
 Escoge 1:
 - [ ] Limpieza de datos
 - [ ] Visualización de datos 
-- [ ] Adquisición y Distribución de datos (Creación y consumo de APIs, publicación de datos en data.world o kaggle o github, etc)
+- [ ] Adquisición, Creación y Distribución de datos (Creación y consumo de APIs, publicación de datos en data.world o kaggle o github, etc)
 - [ ] Automatización de procesos (creación de reportes, _ETL pipelines_, etc)
 - [ ] Análisis de datos (estadísticas básicas, extracción de información, etc) 
 - [ ] Utilización de datos (ética, decisiones basadas en datos, etc)
@@ -26,5 +26,5 @@ Ejemplos:
 ### ¿Qué tecnología sugieres utilizar?
 Tableau, PowerBI, python, R, javascript, ...
 
-### Context adicional
+### Contexto adicional
 Ejemplos, capturas de pantalla, enlaces a otros tutoriales, ...
