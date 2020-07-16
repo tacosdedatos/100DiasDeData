@@ -60,7 +60,7 @@ Reglas que seguir:
 Para desalentar el fanatismo por las herramientas el repositorio debería estar organizado por **temas** en el mundo de los datos:
 * Limpieza de datos
 * Visualización de datos 
-* Adquisición y Distribución de datos (Creación y consumo de APIs, publicación de datos en data.world o kaggle o github, etc)
+* Adquisición, Creación y Distribución de datos (Creación y consumo de APIs, publicación de datos en data.world o kaggle o github, geolocalización, etc)
 * Automatización de procesos (creación de reportes, _ETL pipelines_, etc)
 * Análisis de datos (estadísticas básicas, extracción de información, etc) 
 * Utilización de datos (ética, decisiones basadas en datos, etc)
