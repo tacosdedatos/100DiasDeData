@@ -64,7 +64,7 @@ Para desalentar el fanatismo por las herramientas el repositorio debería estar 
 * Automatización de procesos (creación de reportes, _ETL pipelines_, etc)
 * Análisis de datos (estadísticas básicas, extracción de información, etc) 
 * Utilización de datos (ética, decisiones basadas en datos, etc)
-* Surtido (herramientas y habilidades importantes que no necesariamente tengan una asociación directa con el mundo de los datos - git, manejo de proyectos, `cookiecutter`, creación de paquetes/librerías, etc)
+* Surtido (herramientas y habilidades importantes que no necesariamente tengan una asociación directa con el mundo de los datos - git, manejo de proyectos, `cookiecutter`, creación de paquetes/librerías, Docker, etc)
 * Proyectos: Lo más probable es que un proyecto contenga ejercicios en más de un tema así que estos estarán bajo la categoría `proyectos` 
 
 ```
