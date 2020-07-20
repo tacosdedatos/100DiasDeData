@@ -23,6 +23,9 @@ Escoge 1:
 * _Aprender a hacer XYZ..._
 * _Crear una XYZ..._ -->
 
+### ¿Cuál es el nivel de este ejercicio?
+<!-- 3 dígitos para describir 1) complejidad, 2) nivel de conocimiento previo necesario, y 3) tiempo necesario. Del 1-5 cada uno. Ejemplo, 324. Más info en el README -->
+
 ### ¿Qué tecnología sugieres utilizar?
 <!-- Tableau, PowerBI, python, R, javascript, ... -->
 
