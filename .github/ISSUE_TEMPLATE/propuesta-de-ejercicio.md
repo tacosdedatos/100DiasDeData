@@ -1,5 +1,5 @@
 ---
-name: Propuesta de Ejercicio
+name: 🧑‍🎓 Propuesta de Ejercicio
 about: Una idea para un ejercicio
 title: "[Ejercicio]"
 labels: propuesta
@@ -19,12 +19,12 @@ Escoge 1:
 - [ ] Proyectos: Lo más probable es que un proyecto contenga ejercicios en más de un tema así que estos estarán bajo la categoría `proyectos` 
 
 ### ¿Cuál es la meta de este ejercicio?
-Ejemplos:
+<!-- Ejemplos:
 * _Aprender a hacer XYZ..._
-* _Crear una XYZ..._
+* _Crear una XYZ..._ -->
 
 ### ¿Qué tecnología sugieres utilizar?
-Tableau, PowerBI, python, R, javascript, ...
+<!-- Tableau, PowerBI, python, R, javascript, ... -->
 
 ### Contexto adicional
-Ejemplos, capturas de pantalla, enlaces a otros tutoriales, ...
+<!-- Ejemplos, capturas de pantalla, enlaces a otros tutoriales, ... -->
