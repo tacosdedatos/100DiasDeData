@@ -2,7 +2,7 @@
 name: 🧑‍⚖️ Discusión
 about: Se necesita tomar una decisión sobre X.
 title: "[Discusión]"
-labels: discusion
+labels: discusión
 assignees: ''
 
 ---
