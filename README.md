@@ -22,9 +22,9 @@ Limpieza, manipulación, lectura y escritura, visualización, presentación, apl
 
 El repositorio esta compuesto por <span style="background-color:#be89ff78">proyectos</span> y <span style="background-color:#c7a02278">ejercicios</span>.
 
-Un <span style="background-color:#c7a02278">ejercicio</span> es una actividad con una meta definida que puedes lograr en menos de una hora. No todos los ejercicios van a necesitar de escribir código para lograr la meta. Por ejemplo, crear unas paletas de color divergentes y secuenciales. Esto puede lograrse programáticamente escribiendo código o también utilizando ciertos sitios web.
+Un <span style="background-color:#c7a02278">ejercicio</span> es una actividad con una meta definida que puedes lograr en menos de una hora. No todos los ejercicios van a necesitar de escribir código para lograr la meta. Por ejemplo, crear unas paletas de color divergentes y secuenciales. Esto puede lograrse programáticamente escribiendo código o también utilizando ciertos sitios web. Un ejercicio debe tocar solamente 1 (o 2) "temas" relacionado con los datos. Por ejemplo: recoleccion, limpieza, visualización, aprendizaje. Las demás partes deben o ser incluidas como parte del planteamiento (como un notebook con celdas pre-llenadas) o simplemente no consideradas.
 
-Un <span style="background-color:#be89ff78">proyecto</span> es un grupo de ejercicios relacionados. Estos llevan más de una hora en terminar y puede que los ejercicios que lo compongan sean secuenciales. Es decir, puede que el tercer ejercicio de un proyecto no pueda llevarse a cabo hasta que se termine el segundo ejercicio.
+Un <span style="background-color:#be89ff78">proyecto</span> es un grupo de ejercicios relacionados. Los proyectos toman más de una hora en terminar y puede que los ejercicios que lo compongan sean secuenciales. Es decir, puede que el tercer ejercicio de un proyecto no pueda llevarse a cabo hasta que se termine el segundo ejercicio. Si tienes una idea de un ejercicio que toque más de 2 "temas", considera romperlo en 2 o más ejercicios modulares para crear un proyecto en su lugar.
 
 ### Nomenclatura de ejercicios:
 * Los nombres de las carpetas de cada ejercicio no llevan espacios o caracteres especiales.
@@ -35,7 +35,7 @@ Un <span style="background-color:#be89ff78">proyecto</span> es un grupo de ejerc
 ### Sobre los 3 dígitos que describen el nivel del ejercicio:
 El nivel de un ejercicio se describe en 3 áreas: **complejidad**, **nivel de conocimiento previo necesario**, **tiempo necesario**. 
 
-Cada área recibe una calificación del 1 - 5. 
+Cada área recibe una calificación 1, 3 o 5 (Básico, intermedio, avanzado). Si tienes dudas de que nível darle a tu ejercicio sólo hace falta mencionarlo en tu PR y te ayudaremos a decidir. 
 
 La **complejidad** de un ejercicio se define por el número de pasos y tecnologías necesarias para llevarlo a cabo. Por ejemplo, un ejercicio en el que aprendemos a crear un gráfico de barras con `bokeh` puede ser nivel 1 o 2 de complejidad ya que es una sola tecnología (`bokeh`) y son pocos pasos necesarios para crear un gráfico de barras. Sin embargo, si el ejercicio es personalizar un gráfico de barras con`bokeh`, puede que el nivel de complejidad suba, dependiendo en que tantos pasos requiera esta personalización. 
 
@@ -48,7 +48,8 @@ Reglas que seguir:
 
 * Un ejercicio no puede necesitar más de una hora en completarse. 
 * Un ejercicio debe tener una meta que sea
-  - Específica, Medible, Lograble, Relevante y con tiempo límite (una hora) o  _SMART_ por sus siglas en inglés (**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound) 
+  - Específica, Medible, Lograble, Relevante y con tiempo límite (una hora) o  _SMART_ por sus siglas en inglés (**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound)
+  - No todas las metas tienen una "respuesta correcta" siempre pero todas las metas tienen una manera de medir el éxito o la falla de la misma. En el archivo instrucciones.md se debe incluir algunas preguntas que quien realice el ejercicio pueda responder para medir si cumplió o no con el objetivo del ejercicio.
 * La meta de un ejercicio debe estar relacionada a el manejo, distribución, análisis, visualización, creación, consumo, entre otras cosas, de los datos.
 * La meta de un ejercicio también puede ser relacionada a habilidades, responsabilidades y/o actividades relacionadas a los datos. Por ejemplo, un ejercicio pidiendo que unx lea un artículo sobre ética del uso de datos personales y escriba 300-500 palabras al respecto es válido. 
 * Todos los datos necesarios para cumplir un ejercicio deben ser abiertos y accesibles para el público en general.
