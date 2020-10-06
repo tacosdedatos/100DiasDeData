@@ -1,224 +1,214 @@
-This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
+Este documento resume los procedimientos que utiliza el comité del Código de conducta de tacosdedatos para hacer cumplir el Código de conducta.
 
-# Summary of processes
+# Resumen de procesos
 
-When the work group receives a report of a possible Code of Conduct violation, it will:
+Cuando el comité reciba un informe de una posible violación del Código de Conducta:
 
- 0. Acknowledge the receipt of the report.
- 1. Evaluate conflicts of interest.
- 2. Call a meeting of work group members without a conflict of interest.
- 3. Evaluate the reported incident.
- 4. Propose a behavioral modification plan.
- 5. Propose consequences for the reported behavior.
- 6. Vote on behavioral modification plan and consequences for the reported person.
- 7. Contact online community administrators/moderators to approve the behavioral modification plan and consequences.
- 8. Follow up with the reported person.
- 9. Decide further responses.
- 10. Follow up with the reporter.
+ 0. Confirmará recibo del informe.
+ 1. Evaluará los conflictos de intereses.
+ 2. Convocará una reunión del comité sin conflicto de intereses.
+ 3. Evaluará el incidente informado.
+ 4. Propondrá un plan de modificación de conducta.
+ 5. Propondrá consecuencias por el comportamiento informado.
+ 6. Votará sobre el plan de modificación del comportamiento y las consecuencias para la persona denunciada.
+ 7. Se comunicará con los administradores / moderadores de la comunidad en línea para aprobar el plan de modificación de comportamiento y las consecuencias.
+ 8. Hará un seguimiento con la persona denunciada.
+ 9. Decidirá más respuestas.
+ 10. Hará un seguimiento con la persona que reportó el comportamiento.
 
-# Acknowledge the report
+# Confirmar recibo del informe
 
-Reporters should receive an emailed acknowledgment of the receipt of their report within 24 hours.
+Las personas quienes reportan una violación al Código de Conducta recibirán una confirmación del recibo del mismo via email dentro de 24 horas.
 
-# Conflict of interest policy
+# Política de conflicto de intereses
 
-Examples of conflicts of interest include:
+Ejemplos de conflictos de interés incluyen:
 
- * The reporter or reported person is your manager
- * You have a romantic or platonic relationship with either the reporter or the reported person. It's fine to participate if they are an acquaintance.
- * The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
- * The reporter or reported person is your family member
- * The reporter or reported person is your direct client
- * The reporter or reported person is someone you work closely with. This could be someone on your team or someone who works on the same project as you.
- * The reporter or reported person is a maintainer who regularly reviews your contributions
+ * Denunciante o denunciadx es tu gerente o supervisor(a).
+ * Ustéd tiene una relación romantica o platonica con denunciante o denunciadx. Se permite participar si se son solo conocidos.
+ * Denunciante o denunciadx es tu metamour.
+ * Denunciante o denunciadx es miembro de tu familia.
+ * Denunciante o denunciadx es tu cliente.
+ * Denunciante o denunciadx es alguien con quien trabajas cercanamente. Esta podría ser alguien en tu equipo o que trabaja en un proyecto contigo.
+ * Denunciante o denunciadx es una persona que regularmente revisa tus contribuciones (como a un proyecto *open-source*).
 
-Committee members do not need to state why they have a conflict of interest, only that one exists. Other work group members should not ask why the person has a conflict of interest.
+ Miembros del comité no necesitan 
 
-Anyone who has a conflict of interest will remove themselves from the discussion of the incident, and recluse themselves from voting on a response to the report.
+Los miembros del comité no necesitan indicar por qué tienen un conflicto de intereses, solo que existe. Otrxs miembros no deben preguntar por qué la persona tiene un conflicto de intereses.
 
-# Evaluating a report
+Cualquiera que tenga un conflicto de intereses se retirará de la discusión del incidente y se abstendrá de votar sobre una respuesta al informe.
 
-## Jurisdiction
+# Evaluando una denuncia o reporte
 
- * *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
- * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
+## Jurisdicción
 
-## Impact
+ * *¿Es esto una violación del Código de Conducta?* ¿Está este comportamiento en nuestra lista de comportamientos inapropiados? ¿Es un comportamiento *casi* inapropiado? ¿Viola las normas de nuestra comunidad?
+ * *¿Esto ocurrió en un espacio que está dentro del alcance de nuestro Código de Conducta?* Si el incidente ocurrió fuera de la comunidad, pero la salud mental o la seguridad física de un miembro de la comunidad puede verse afectada negativamente si no se toman medidas, el incidente entra en nuestro alcance. Las conversaciones privadas en espacios comunitarios también están dentro del alcance.
 
- * *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
- * *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Are members of the marginalized group likely to disengage with the community if no action was taken on this report?
- * *Does this incident involve a community leader?* Community members often look up to community leaders to set the standard of acceptable behavior.
+## Impacto
 
-## Risk
+ * *¿Este incidente ocurrió en una conversación privada o en un espacio público?* Los incidentes que todos los miembros de la comunidad pueden ver tendrán un impacto más negativo.
+ * *¿Este comportamiento impacta negativamente a un grupo marginado en nuestra comunidad?* ¿Es el denunciante una persona de un grupo marginado en nuestra comunidad? ¿Cómo se ve afectado negativamente el denunciante por el comportamiento de la persona denunciada? ¿Es probable que los miembros del grupo marginado se desvinculan de la comunidad si no se toman medidas sobre este informe?
+ * *¿Este incidente involucra a un líder de la comunidad?* Los miembros de la comunidad a menudo buscan a los líderes de la comunidad para establecer el estándar de comportamiento aceptable.
 
- * *Does this incident include sexual harrasment?*
- * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
- * *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
+## Riesgo
+ 
+ * *¿Este incidente incluye acoso sexual?*
+ * *¿Representa esto un riesgo para la seguridad?* ¿El comportamiento pone en riesgo la seguridad física de una persona? ¿Este incidente afectará gravemente la salud mental de alguien?
+ * *¿Existe el riesgo de que se repita este comportamiento?* ¿La persona denunciada comprende por qué su comportamiento fue inapropiado? ¿Existe un patrón de comportamiento establecido a partir de informes anteriores?
 
-Reports which involve higher risk or higher impact may face more severe consequences than reports which involve lower risk or lower impact.
+Los informes que implican mayor riesgo o mayor impacto pueden enfrentar consecuencias más graves que los informes que implican menor riesgo o menor impacto.
 
-# Propose a behavioral modification plan
+# Proponer un plan de modificación de comportamiento
 
-The work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated.  The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
+El comité determinará un plan de modificación de conducta concreto que garantice que no se repita la conducta inapropiada. El comité también discutirá qué acciones deben tomarse si la persona denunciada no está de acuerdo con el plan de modificación del comportamiento.
 
-What follows are examples of possible behavioral modification plans for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral modification list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
+Lo que sigue son ejemplos de posibles planes de modificación de comportamiento para incidentes que ocurren en espacios en línea bajo el alcance de este Código de Conducta. Esta lista de modificaciones de comportamiento no es inclusiva, y el comité del Código de conducta de tacosdedatos se reserva el derecho de tomar cualquier acción que considere necesaria.
 
- * Requiring that the reported person not use specific language
- * Requiring that the reported person not join in on specific types of discussions
- * Requiring that the reported person not send private messages to a community member
- * Requiring that the reported person not join specific communication channels
- * Removing the reported person from administrator or moderator rights to community infrastructure
- * Removing a volunteer from their duties and responsibilities
- * Removing a person from leadership of relevant organizations
- * Removing a person from membership of relevant organizations
+ * Requerir que la persona denunciada no use cierto lenguaje
+ * Requerir que la persona denunciada no participe en tipos específicos de discusiones
+ * Requerir que la persona denunciada no envíe mensajes privados a un miembro de la comunidad
+ * Requerir que la persona denunciada no se una a canales de comunicación específicos
+ * Eliminar a la persona denunciada de los derechos de administrador o moderador de la infraestructura de la comunidad
+ * Retirar a un voluntario de sus deberes y responsabilidades.
+ * Retirar a una persona del liderazgo de organizaciones relevantes
+ * Eliminar a una persona de la membresía de organizaciones relevantes
 
-# Propose consequences
+# Proponer consecuencias
 
-What follows are examples of possible consequences to an incident report. This consequences list is not inclusive, and the Python Software Foundation Code of Conduct work group reserves the right to take any action it deems necessary.
+Lo que sigue son ejemplos de posibles consecuencias de un informe de incidente. Esta lista de consecuencias no es inclusiva y el comité del Código de conducta de tacosdedatos se reserva el derecho de tomar cualquier acción que considere necesaria.
 
-Possible private responses to an incident include:
+Las posibles respuestas privadas a un incidente incluyen:
 
- * Nothing, if the behavior was determined to not be a Code of Conduct violation
- * A verbal or emailed warning
- * A final warning
- * Temporarily removing the reported person from the online community
- * Permanently removing the reported person from the online community
- * Publishing an account of the incident
+ * Nada, si se determinó que el comportamiento no es una violación del Código de Conducta
+ * Una advertencia verbal o por correo electrónico
+ * Una advertencia final
+ * Eliminar temporalmente a la persona denunciada de la comunidad en línea
+ * Eliminar permanentemente a la persona denunciada de la comunidad en línea
+ * Publicar un relato del incidente
 
-# Work group vote
+# Voto del comité
 
-Some work group members may have a conflict of interest and may be excluded from discussions of a particular incident report. Excluding those members, decisions on the behavioral modification plans and consequences will be determined by a two-thirds majority vote of the Python Software Foundation Code of Conduct work group.
+Algunos miembros del comité pueden tener un conflicto de intereses y pueden ser excluidos de las discusiones sobre un informe de incidente en particular. Excluyendo a esos miembros, las decisiones sobre los planes de modificación de comportamiento y las consecuencias serán determinadas por una mayoría de dos tercios de votos del comité del Código de Conducta de tacosdedatos.
 
-# Administrators/moderators approval
+# Aprobación de administradores/moderadores
 
-Once the work group has approved the behavioral modification plans and consequences, they will communicate the recommended response to the administrators/moderators of the online community. The work group should not state who reported this incident. They should attempt to anonymize any identifying information from the report.
+Una vez que el comité haya aprobado los planes de modificación de comportamiento y las consecuencias, comunicarán la respuesta recomendada a lxs administradores/moderadores de la comunidad en línea. El comité no debe indicar quién informó este incidente. Deben intentar anonimizar cualquier información de identificación del informe.
 
-Administrators/moderators are required to respond back with whether they accept the recommended response to the report. If they disagree with the recommended response, they should provide a detailed response or additional context as to why they disagree. Administrators/moderators are encouraged to respond within a week. 
+Lxs administradores/moderadores deben responder si aceptan la respuesta recomendada al informe. Si no están de acuerdo con la respuesta recomendada, deben proporcionar una respuesta detallada o un contexto adicional de por qué no están de acuerdo. Se anima a lxs administradores/moderadores a responder dentro de una semana.
 
-In cases where the administrators/moderators disagree on the suggested resolution for a report, the Python Software Foundation Code of Conduct work group may choose to notify the Python Software Foundation board.
+En los casos en que lxs administradores/moderadores no estén de acuerdo con la resolución sugerida para un informe, el comité del Código de conducta de tacosdedatos puede optar por notificar a la junta de tacosdedatos.
 
-# Follow up with the reported person
+# Seguimiento con la persona reportada
 
-The Python Software Foundation Code of Conduct work group will work with online community administrators/moderators to draft a response to the reported person. The email should contain:
+El comité del Código de conducta de tacosdedatos trabajará con lxs administradores/moderadores de la comunidad en línea para redactar una respuesta a la persona denunciada. El correo electrónico debe contener:
 
- * A description of the person's behavior in neutral language
- * The negative impact of that behavior
- * A concrete behavioral modification plan
- * Any consequences of their behavior
+ * Una descripción del comportamiento de la persona en un lenguaje neutral.
+ * El impacto negativo de ese comportamiento
+ * Un plan de modificación de comportamiento concreto
+ * Cualquier consecuencia de su comportamiento.
 
-The work group should not state who reported this incident. They should attempt to anonymize any identifying information from the report. The reported person should be discouraged from contacting the reporter to discuss the report. If they wish to apologize to the reporter, the work group can accept the apology on behalf of the reporter.
+El comité no debe indicar quién informó este incidente. Deben intentar anonimizar cualquier información de identificación del informe. Se debe disuadir a la persona denunciada de que se ponga en contacto con el periodista para discutir el informe. Si desean disculparse con el denunciante, el comité puede aceptar la disculpa en nombre del denunciante.
 
-# Decide further responses
+# Decidir más respuestas
 
-If the reported person provides additional context, the Python Software Foundation Code of Conduct work group may need to re-evaluate the behavioral modification plan and consequences.
+Si la persona denunciada proporciona un contexto adicional, es posible que el comité del Código de conducta de tacosdedatos deba volver a evaluar el plan de modificación de comportamiento y las consecuencias.
 
-# Follow up with the reporter
+# Seguimiento con el denunciante
 
-A person who makes a report should receive a follow up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
+Una persona que hace un informe debe recibir un correo electrónico de seguimiento indicando qué acción se tomó en respuesta al informe. Si el comité decidió que no era necesaria una respuesta, debería proporcionar un correo electrónico explicando por qué no se trataba de una violación del Código de Conducta. Los informes que no se hacen de buena fe (como "sexismo inverso" o "racismo inverso") pueden no recibir respuesta.
 
-The follow up email should be sent no later than one week after the receipt of the report. If deliberation or follow up with the reported person takes longer than one week, the work group should send a status email to the reporter.
+El correo electrónico de seguimiento debe enviarse a más tardar una semana después de recibir el informe. Si la deliberación o el seguimiento con la persona denunciada demoran más de una semana, el comité debe enviar un correo electrónico de estado al denunciante.
 
-# Documentation and Privacy Policies
+# Políticas de documentación y privacidad
 
-Depending on how the Code of Conduct committee is set up, there may be different places where information about Code of Conduct reports may be accessible:
+Dependiendo de cómo esté configurado el comité del Código de Conducta, puede haber diferentes lugares donde la información sobre los informes del Código de Conducta puede ser accesible:
 
- * Personal email of Code of Conduct committee members
- * Archives of committee mailing lists
- * Logs from committee online chats
- * Shared online documents, such as Google Docs or Next Cloud documents
+ * Correo electrónico personal de los miembros del comité del Código de Conducta
+ * Archivos de listas de correo del comité
+ * Registros de los chats en línea del comité
+ * Documentos en línea compartidos, como Google Docs o documentos de Next Cloud
 
-In all cases, documents and notes should only be available to committee members who do not have a conflict of interest for the report. This requires communities to choose documentation tools that will meet their privacy needs.
+En todos los casos, los documentos y notas solo deben estar disponibles para los miembros del comité que no tengan un conflicto de intereses para el informe. Esto requiere que las comunidades elijan herramientas de documentación que satisfagan sus necesidades de privacidad.
 
-## Committee shared email address
+## Dirección de correo electrónico compartida del comité
 
-Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias which forwards email to individual members.
+Los comités del Código de Conducta deben poder ser contactados por una dirección de correo electrónico. Se recomienda que el comité utilice un alias que reenvíe el correo electrónico a miembros individuales.
 
-Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentally see past reports where they have a conflict of interest. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
+No se recomienda usar una lista de correo. Esto se debe a que las listas de distribución suelen archivar todos los correos electrónicos. Esto significa que los nuevos miembros del comité obtienen acceso a todos los archivos anteriores. Pueden ver, de forma deliberada o accidental, informes anteriores en los que tienen un conflicto de intereses. Para evitar posibles conflictos de intereses, se recomienda no tener un archivo de lista de correo.
 
-## Committee online discussion
+## Discusión en línea del comité
 
-A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, Zulip, or IRC. If the online chat platform allows, it is recommended to set the committee channel to have past history not be available to new committee members who join the channel.
+Un comité del Código de Conducta puede tener un foro de discusión en línea y en tiempo real, como Slack, Zulip o IRC. Si la plataforma de chat en línea lo permite, se recomienda configurar el canal del comité para que el historial anterior no esté disponible para los nuevos miembros del comité que se unan al canal.
 
-When a report comes in and a discussion needs to happen in an online space, care needs to be taken to avoid conflicts of interest. In the committee chat channel, state 'We have a report that involves [REPORTED PERSON]'. Do not say who was the reporter or who were witnesses if the report was sent to an individual committee member. Ask which committee members do not have a conflict of interest. Add those committee members to a group discussion, separate from the committee channel. If a committee member does not respond, do not add them to the new group discussion. If a committee member finds they have a conflict of interest because of who reported the incident or who witnessed it, they should recluse themselves from the discussion.
+Cuando llega un informe y debe realizarse una discusión en un espacio en línea, se debe tener cuidado para evitar conflictos de intereses. En el canal de chat del comité, indique "Tenemos un informe que involucra a [PERSONA DENUNCIADA]". No diga quién fue el reportero o quienes fueron testigos si el informe fue enviado a un miembro individual del comité. Pregunte qué miembros del comité no tienen un conflicto de intereses. Agregue a esos miembros del comité a una discusión grupal, separada del canal del comité. Si un miembro del comité no responde, no lo agregue a la nueva discusión grupal. Si un miembro del comité descubre que tiene un conflicto de intereses debido a quién informó el incidente o quién lo presenció, debe apartarse de la discusión.
 
-Committee members should not use bots or IRC bouncers to log the group discussions. All documentation of discussions and decisions should be put in online, shared documentation.
+Los miembros del comité no deben usar bots o porteros de IRC para registrar las discusiones del grupo. Toda la documentación de las discusiones y decisiones debe incluirse en documentación compartida en línea.
 
-If no online real-time discussion forum is used, committee members without a conflict of interest will discuss the case on a separate email thread. If no committee member has a conflict of interest, and the committee email is an alias, the committee may reply to the alias to discuss the issues.
+Si no se usa un foro de discusión en línea en tiempo real, los miembros del comité sin un conflicto de intereses discutirán el caso en un hilo de correo electrónico separado. Si ningún miembro del comité tiene un conflicto de intereses y el correo electrónico del comité es un alias, el comité puede responder al alias para discutir los problemas.
 
-## Shared Documentation
+## Documentación compartida
 
-The Code of Conduct committee should keep two types of shared documents:
+El comité del Código de Conducta debe mantener dos tipos de documentos compartidos:
 
- * A spreadsheet with the status of open and closed cases
- * A separate document for each report
+ * Una hoja de cálculo con el estado de los casos abiertos y cerrados
+ * Un documento separado para cada informe
 
-### Status Spreadsheet
+### Hoja de cálculo de estados
 
-The spreadsheet with status of open and closed cases should have the following format:
+La hoja de calculo con estados de casos abiertos y cerrados deberá llevar el siguiente formato:
 
-| Safety risk?  | Risk of repeating? | Status | Code Name  | Date & Time  | Actions needed | Resolution |
+| ¿Riesgo de seguridad?  | ¿Riesgo de repetición? | Estado | Nombre clave | Fecha y hora | Acciones requeridas | Resoluciónn |
 |---|---|---|---|---|---|---|
-| Yes | Yes | Ongoing | home shelf  | 07/07 8:30am and 07/08 12:30pm | Team on the lookout for reported person | Temporary ban for the remainder of the event, reevaluate attendance for next year |
-| No | Maybe | Resolved | stunned bulb | 07/07 8:00pm | - | Verbal warning |
+| Si | Si | en marcha | librero azul | 07/07 8:30am y 07/08 12:30pm | Equipo en busca de persona denunciada | Prohibición temporal por el resto del evento, reevaluar la asistencia para el próximo año |
+| No | Tal vez | Resuelto | banqueta gris | 07/07 8:00pm | - | Advertencia verbal |
 |   |   |   |   |   |   |   |
 
-Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender neutral language when describing the reported person in the spreadsheet.
+Mantenga las resoluciones y notas lo suficientemente vagas como para que los miembros del equipo de ejecución con un conflicto de intereses no conozcan los detalles del incidente. Utilice un lenguaje neutro en cuanto al género al describir a la persona denunciada en la hoja de cálculo.
 
-### Report Documentation
+### Documentación de la denuncia
 
-Each report should be assigned a code name, using an [online random phrase generator](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase). The code name should be used in the document's title. Only committee members without a conflict of interest should have access to the report documentation.
+A cada informe se le debe asignar un nombre de código, utilizando un [generador de frases aleatorias en línea](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase). El nombre en clave debe usarse en el título del documento. Solo los miembros del comité sin un conflicto de intereses deben tener acceso a la documentación del informe.
 
-Report documents should include:
+Los documentos de la denuncia deben incluir:
 
- * A summary of a verbal report, or the text of an emailed report. Use neutral, non-judgmental words to describe the behavior. Where possible, separate out the behavior of the reported person and the impact on the reporter.
- * A summary of committee discussions, including whether the report is in scope
- * Proposed behavioral modification plan
- * Proposed consequences for the reported behavior
- * A summary of verbal discussions, or the text of email discussions with community moderators, administrators, registration, or other event organizers about the proposed consequences and behavioral modification plan
- * A summary of verbal discussions, or the text of email discussions with the reported person
- * The text that was sent to follow up with the reporter
+ * Un resumen de un informe verbal o el texto de un informe enviado por correo electrónico. Use palabras neutrales que no juzguen para describir el comportamiento. Siempre que sea posible, separe el comportamiento de la persona denunciada y el impacto en el informante.
+ * Un resumen de las discusiones del comité, incluyendo si el informe está dentro del alcance
+ * Plan de modificación de comportamiento propuesto
+ * Consecuencias propuestas por el comportamiento informado
+ * Un resumen de las discusiones verbales o el texto de las discusiones por correo electrónico con los moderadores de la comunidad, los administradores, el registro u otros organizadores de eventos sobre las consecuencias propuestas y el plan de modificación del comportamiento.
+ * Un resumen de las discusiones verbales o el texto de las discusiones por correo electrónico con la persona denunciada
+ * El texto que se envió para dar seguimiento al reportero
 
-All discussion summaries should include dates that they took place.
+Todos los resúmenes de las discusiones deben incluir las fechas en las que tuvieron lugar.
 
-### Privacy Concerns
+### Preocupaciones sobre la privacidad
 
-There are some common privacy pitfalls to online tools like Google Docs. Make sure to always share the document with committee members who don't have a conflict of interest, rather than turning link sharing on. This prevents people outside of the committee from accessing the documents.
+Existen algunos errores de privacidad comunes a las herramientas en línea como Google Docs. Asegúrese de compartir siempre el documento con los miembros del comité que no tengan un conflicto de intereses, en lugar de activar el uso compartido de enlaces. Esto evita que personas ajenas al comité accedan a los documentos.
 
-Another common issue is that when a folder is shared with the whole committee, even if a person doesn't have edit or view access to an individual report, they can still see the document's title. This can give information away, such as the person who made the report. Some communities use initials in the report title instead. That can still reveal information, and it makes it hard to talk about report status in public spaces (such as an event). The committee may want to assign a code name to each report, and reference that name in the report title and status spreadsheet. You can use an [online random phrase generator](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase) to create the code name.
+Otro problema común es que cuando una carpeta se comparte con todo el comité, incluso si una persona no tiene acceso para editar o ver un informe individual, aún puede ver el título del documento. Esto puede revelar información, como la persona que hizo el informe. En su lugar, algunas comunidades utilizan iniciales en el título del informe. Eso aún puede revelar información y dificulta hablar sobre el estado de los informes en espacios públicos (como un evento). Es posible que el comité desee asignar un nombre clave a cada informe y hacer referencia a ese nombre en el título del informe y en la hoja de cálculo de estado. Puede utilizar un [generador de frases aleatorias en línea](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase) para crear el nombre clave.
 
-When on-boarding new committee members, they should be provided with a list of names of people who have been reported in a Code of Conduct incident. The new committee member should state whether they have any conflicts of interest with reviewing documentation for those cases. If not, they will be given edit access to the report documents.
+Al incorporar nuevos miembros del comité, se les debe proporcionar una lista de los nombres de las personas que han sido denunciadas en un incidente del Código de Conducta. El nuevo miembro del comité debe indicar si tiene algún conflicto de intereses con la revisión de la documentación de esos casos. De lo contrario, se les dará acceso de edición a los documentos del informe.
 
-# Changes to Code of Conduct
+# Cambios al código de conducta
 
-When discussing a change to the Python community Code of Conduct or enforcement policies, the Python Software Foundation Code of Conduct work group will follow this decision-making process:
+Al discutir un cambio en el Código de conducta de la comunidad de tacosdedatos o las políticas de cumplimiento, el comité del Código de conducta de tacosdedatos seguirá este proceso de toma de decisiones:
 
-* **Brainstorm options.** Work group members should discuss any relevant context and brainstorm a set of possible options. It is important to provide constructive feedback without getting side-tracked from the main question. Brainstorming should be limited to 3-7 days maximum.
-* **Vote.** Proposed changes to the Code of Conduct will be decided by a two-thirds majority of all voting members of the Code of Conduct work group. Work group members are listed in the [work group charter](https://wiki.python.org/psf/ConductWG/Charter). Currently active voting members are listed below.
-* **Board Vote.** Once a working draft is in place for the Code of Conduct and procedures, the Code of Conduct work group shall provide the PSF board with a draft of the changes. The PSF board will vote on the changes at a board meeting.
+* **Lluvia de ideas de opciones.** Los miembros del comité deben discutir cualquier contexto relevante y hacer una lluvia de ideas sobre un conjunto de opciones posibles. Es importante brindar comentarios constructivos sin desviarse de la pregunta principal. La lluvia de ideas debe limitarse a un máximo de 3-7 días.
+* **Voto.** Los cambios propuestos al Código de Conducta serán decididos por una mayoría de dos tercios de todos los miembros votantes del comité del Código de Conducta. Los miembros votantes actualmente activos se enumeran a continuación.
+* **Voto de la junta.** Una vez que se haya elaborado un borrador de trabajo para el Código de Conducta y los procedimientos, el comité del Código de Conducta proporcionará a la Junta de tacosdedatos un borrador de los cambios. La junta de tacosdedatos votará sobre los cambios en una reunión de la junta.
 
 ## Current list of voting members
 
-Brett Cannon
-Carol Willing
-Ewa Jodlowska
-Jackie Kazil
-Jeff Triplett
-Lorena Mesa
-Philip James
-Rami Chowdhury
-Trey Hunner
-Van Lindberg
+Sergio Sánchez
 
-## Advisers
+## Asesores
 
-Advisers to the PSF Code of Conduct work group have access to the work group mailing list, but are not voting members.
+Lxs asesores del comité del Código de Conducta de tacosdedatos tienen acceso a la lista de correo del comité, pero no son miembros con derecho a voto.
 
-Anwesha Das
-Maricela Sanchez Miranda
-Naomi Ceder
-Thomas Wouters
+# Atribuciones
 
-# Attribution
+Este documento se formó a partir de su versión en inglés de la Python Software Foundation. Las atribuciones del cual son las siguientes:
 
  * The [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
  * Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
