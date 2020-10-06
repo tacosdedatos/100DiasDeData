@@ -1,85 +1,69 @@
-# Community Member Procedure For Reporting Code of Conduct Incidents
+# Procedimiento de miembros de la comunidad para informar incidentes del Código de conducta
 
-**If you believe someone is in physical danger, including from themselves**, the most important thing is to get that person help. Please contact the appropriate crisis number, non-emergency number, or police number. If you are in a PSF-sponsored conference or meeting, you can consult with a volunteer or staff member to help find an appropriate number.
+**Si cree que alguien está en peligro físico, incluso para sí mismo**, lo más importante es conseguir ayuda para esa persona. Comuníquese con el número de emergencia o el número de la autoridad correspondiente.
 
-If you believe someone has violated the [PSF Code of Conduct](https://www.python.org/psf/codeofconduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
+Si cree que alguien ha violado el [Código de conducta](https://www.python.org/psf/codeofconduct/), le recomendamos que lo informe. Si no está segurx de si el incidente es una violación o si el espacio donde ocurrió está cubierto por el Código de Conducta, le recomendamos que lo informe. No tenemos ningún problema con recibir informes en los que decidimos no realizar ninguna acción con el fin de crear un espacio más seguro.
 
-Each PSF-controlled meeting or online forum should have a designated moderator or Code of Conduct point of contact.  Larger gatherings, like conferences, may have several people to contact. Specific information should be available for each PSF-affiliated gathering, online or off. 
+*Procedimientos generales para reportar:*
 
-If you find that you need to make a report, and you cannot find the appropriate Code of Conduct reporting contact, you may report to the PSF Code of Conduct email alias below. The PSF will handle your report. If this happens, please also mention that you could not find specific reporting information so that we can improve.
+La mejor manera de contactar es por email a **<conducta@tacosdedatos.com>**. 
 
-*General PSF reporting procedure:*
+En caso de un conflicto de intereses puede contactarse de manera directa a:
 
-The best way to contact the PSF Code of Conduct working group is by email at **<conduct@python.org>**. The members of the Code of Conduct Working Group who monitor this alias is listed at [LINK](). 
+  * Sergio Sánchez
+      * tacosdedatos - Fundador
+      * <chekos@tacosdedatos.com>
 
-In the event of a [conflict of interest](), you may directly contact any of the lead incident responders:
+## Información del reporte
 
-  * Ewa Jodlowska
-      * Python Software Foundation - Executive Director
-      * <ewa@python.org>
-  * Naomi Ceder
-      * Python Software Foundation - Chair of the Board of Directors
-      * <chair@python.org>      
-  * Van Lindberg
-      * Python Software Foundation - General Counsel
-      * <van@python.org>
-  * Christopher Neugebauer
-      * Python Software Foundation Board, liason to Code of Conduct Committee
-      * <chrisjrn@python.org>
+Cuando haga un reporte via email por favor incluya:
+* Su información para contactarle (solo si es necesario)
+* Fecha y hora del incidente
+* Lugar del incidente
+* Si el incidente sigue aconteciendo
+* Descripción del incidente
+* Información para identificar la persona reportada: nombre, apariencia física, estatura, ropa, y cualquier otra información que nos ayude identificarles
+* Circumstancias adicionales sobre el incidente
+* Otras personas que hayan participado o sido testigos del incidente y su información de contacto o descripción
 
-You can also contact any member of the Python Software Foundation [Board of Directors]() to make a report. Certain gatherings and online fora, will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
+Por favor, provea tanta información como sea posible.
 
-## Report Data
+## Confidencialidad
 
-When you make a report via email or phone, please include:
+**Todos los reportes se mantendrán confidenciales***. Cuando discutamos los incidentes con las personas reportadas anonimizaremos tantos detalles como nos sea posible para proteger la privacidad de quien haya hecho el reporte.
 
-* Your contact info (so we can get in touch with you if we need to follow up)
-* Date and time of the incident
-* Location of incident
-* Whether the incident is ongoing
-* Description of the incident
-* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
-* Additional circumstances surrounding the incident
-* Other people involved in or witnesses to the incident and their contact information or description
+Sin embargo, algunos incidentes ocurren en interacciones uno a uno, e incluso si los detalles se anonimizan, la persona denunciada puede adivinar quién hizo el informe. Si tiene inquietudes sobre represalias o su seguridad personal, anótelas en su informe. Aún así, le alentamos a que informe, para que podamos apoyarle. En algunos casos, podemos compilar varios informes anónimos en un patrón de comportamiento y tomar medidas sobre ese patrón.
 
-Please provide as much information as possible.
+En algunos casos, podemos determinar que será necesario realizar una declaración pública. Si ese es el caso, las identidades de todas las víctimas y los reporteros permanecerán confidenciales a menos que esas personas nos indiquen lo contrario.
 
-## Confidentiality
+## Procedimiento de manejo de informes
 
-**All reports will be kept confidential**. When we discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
+Cuando haces un reporte, compilaremos la información sobre el incidente según se indica en el documento [Procedimientos para Reportar]().
 
-However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+Una vez que tomamos el informe, se consultará inmediatamente con el comité del Código de Conducta, a menos que haya un conflicto de intereses, en cuyo caso se contactará a las partes no interesadas.
 
-In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+Si el incidente está en curso y necesita ser abordado de inmediato, cualquier líder puede tomar las medidas adecuadas para garantizar la seguridad de todos los involucrados. Si la situación lo requiere, esto puede tomar la forma de una remisión a una agencia apropiada que no pertenezca a tacosdedatos, incluida la policía local. tacosdedatos no está equipado para manejar situaciones de emergencia.
 
-## Report Handling Procedure
+Si el incidente es menos urgente, el informe será discutido por comité del Código de Conducta que se reunirá para determinar una respuesta adecuada. En el documento [Procedimientos de Aplicación]() describe ejemplos de posibles respuestas a incidentes.
 
-When you make a report to an incident responder, they will gather information about the incident according to the Python Software Foundation [Procedure For Incident Response]().
+Antes de cualquier gran reunión en persona, el personal tendrá una reunión obligatoria en la que se describirán los procedimientos de respuesta a incidentes. 
 
-After an incident responder takes the report, they will immediately consult with the Code of Conduct Working Group, unless there is a conflict of interest, in which case any non-interested parties will be contacted. 
+## Seguimiento con quienes denuncian
 
-If the incident is ongoing and needs to be immediately addressed, any lead incident responder may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-PSF agency, including the local police. The PSF is not equipped to handle emergency situations.
+Dentro de una semana del reporte del incidente, un miembro del comité del Código de Conducta dara seguimiento con la persona quien hizo el reporto y proveerá su información de contacto. Este seguimiento inlcuirá:
 
-If the incident is less urgent, the report will be discussed by the Code of Conduct Working Group will meet to determine an appropriate response. Examples of possible incident responses are outlined in the PSF [Procedure For Incident Response]().
+* Reconocimiento que los miebros del comité del Código de Conducta discutieron la situación
+* Si el reporte fue determinado de haver violado los términos del Código de Conducta
+* Que pasos se tomarán para corregir la conducta
 
-Before any large in-person gathering conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
+En algunos casos, los responsables necesitarán hacer preguntas adicionales para identificar a la persona denunciada.
 
-## Following Up With Reporters
+## Conflictos de interés
 
-Within one week of an incident report, the a member of the Code of Conduct Working Group, or one of the lead responders, will follow up with the person who made the report and provided their contact information. The follow up may include:
-
-* An acknowledgment that the Code of Conduct responders discussed the situation
-* Whether or not the report was determined to be a violation of the Code of Conduct
-* What actions (if any) were taken to correcting the reporter behavior
-
-In some cases, the lead responders may need to ask additional questions about the incident in order to identify the reported person.
-
-## Conflicts of Interest
-
-If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
-
-Should more than two of the PSF lead incident responders need to recuse themselves, another PSF Board member will step in as a temporary lead incident responder.
+Si un miembro del comité del Código de Conducta tiene un conflicto de intereses con un informe, se abstendrá de la discusión y manejo del incidente. La documentación del incidente no estará disponible para ellos y se excusarán de cualquier conversación relacionada con el manejo del incidente.
 
 ---
 
-This procedure was adapted from the PyCon US reporters guide, which was itself adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0), with additions by [Otter Tech](https://otter.technology/).
+Este procedimiento fue adaptado de la guía de la Python Software Foundation la cual fue adaptada de otras guías.
+
+> This procedure was adapted from the PyCon US reporters guide, which was itself adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0), with additions by [Otter Tech](https://otter.technology/).
